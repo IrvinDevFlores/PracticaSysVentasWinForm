@@ -1,0 +1,16 @@
+C:\Users\Ariel\source\repos\VentasPractica\AppVentas\obj\Debug\AppVentas.csprojAssemblyReference.cache
+C:\Users\Ariel\source\repos\VentasPractica\AppVentas\obj\Debug\AppVentas.Properties.Resources.resources
+C:\Users\Ariel\source\repos\VentasPractica\AppVentas\obj\Debug\AppVentas.csproj.GenerateResource.cache
+C:\Users\Ariel\source\repos\VentasPractica\AppVentas\obj\Debug\AppVentas.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\source\repos\VentasPractica\AppVentas\bin\Debug\AppVentas.exe.config
+C:\Users\Ariel\source\repos\VentasPractica\AppVentas\bin\Debug\AppVentas.exe
+C:\Users\Ariel\source\repos\VentasPractica\AppVentas\bin\Debug\AppVentas.pdb
+C:\Users\Ariel\source\repos\VentasPractica\AppVentas\bin\Debug\CapaPresentacion.dll
+C:\Users\Ariel\source\repos\VentasPractica\AppVentas\bin\Debug\CapaNegocios.dll
+C:\Users\Ariel\source\repos\VentasPractica\AppVentas\bin\Debug\CapaDatos.dll
+C:\Users\Ariel\source\repos\VentasPractica\AppVentas\bin\Debug\CapaPresentacion.pdb
+C:\Users\Ariel\source\repos\VentasPractica\AppVentas\bin\Debug\CapaNegocios.pdb
+C:\Users\Ariel\source\repos\VentasPractica\AppVentas\bin\Debug\CapaDatos.pdb
+C:\Users\Ariel\source\repos\VentasPractica\AppVentas\obj\Debug\AppVentas.csproj.CopyComplete
+C:\Users\Ariel\source\repos\VentasPractica\AppVentas\obj\Debug\AppVentas.exe
+C:\Users\Ariel\source\repos\VentasPractica\AppVentas\obj\Debug\AppVentas.pdb

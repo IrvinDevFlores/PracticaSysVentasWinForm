@@ -1,0 +1,9 @@
+C:\Users\Ariel\source\repos\VentasPractica\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\source\repos\VentasPractica\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Ariel\source\repos\VentasPractica\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Ariel\source\repos\VentasPractica\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Ariel\source\repos\VentasPractica\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Ariel\source\repos\VentasPractica\CapaNegocios\obj\Debug\CapaNegocios.csprojAssemblyReference.cache
+C:\Users\Ariel\source\repos\VentasPractica\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\Ariel\source\repos\VentasPractica\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Ariel\source\repos\VentasPractica\CapaNegocios\obj\Debug\CapaNegocios.pdb

@@ -1,0 +1,13 @@
+C:\Users\Ariel\source\repos\VentasPractica\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\source\repos\VentasPractica\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Ariel\source\repos\VentasPractica\CapaPresentacion\obj\Debug\CapaPresentacion.FormCategoria.resources
+C:\Users\Ariel\source\repos\VentasPractica\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Ariel\source\repos\VentasPractica\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\Ariel\source\repos\VentasPractica\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Ariel\source\repos\VentasPractica\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\Ariel\source\repos\VentasPractica\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Ariel\source\repos\VentasPractica\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\Ariel\source\repos\VentasPractica\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Ariel\source\repos\VentasPractica\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Ariel\source\repos\VentasPractica\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Ariel\source\repos\VentasPractica\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

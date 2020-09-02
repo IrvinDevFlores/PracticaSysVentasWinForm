@@ -1,0 +1,5 @@
+C:\Users\Ariel\source\repos\VentasPractica\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\source\repos\VentasPractica\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Ariel\source\repos\VentasPractica\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Ariel\source\repos\VentasPractica\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Ariel\source\repos\VentasPractica\CapaDatos\obj\Debug\CapaDatos.pdb
